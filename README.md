@@ -1,5 +1,5 @@
 
 
-# Egy alkalmazás
+# GameStore
 
 
